@@ -7,3 +7,5 @@ Tasks finished :
 |->2.Celc to Fahr convertion table
 |->3.Copy input to output, getchar()
 |->4.Char counter
+|->5.TAb, NL, SPACE counter
+|->6.Space remover

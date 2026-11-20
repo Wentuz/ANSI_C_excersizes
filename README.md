@@ -9,3 +9,6 @@ Tasks finished :
 |->4.Char counter
 |->5.TAb, NL, SPACE counter
 |->6.Space remover
+|->7.Input deconstructer
+|->8.Every word on a new line
+|->9.Word count histogram
